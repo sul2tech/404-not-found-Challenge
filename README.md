@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- Please update value in the {}  -->
 
 <h1 align="center">{Your project name}</h1>
@@ -73,3 +74,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - Website [your-website.com](https://{your-web-site-link})
 - GitHub [@your-username](https://{github.com/your-usermame})
 - Twitter [@your-twitter](https://{twitter.com/your-username})
+=======
+# 404-not-found-Challenge
+This's a page to challenge, I hope you liked 
+>>>>>>> 36cec80e23ece5bf7330b525af3feab488ee8c24
